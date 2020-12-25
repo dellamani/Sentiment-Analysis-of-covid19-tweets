@@ -1,0 +1,4 @@
+applications:
+ - name: sentiment-covid19-dash-app
+   random-route: true
+   memory: 512M
