@@ -1,7 +1,3 @@
-# SBSPS-Challenge-1522-Sentiment-Analysis-of-COVID-19-Tweets-Visualization-Dashboard
+Sentiment-Analysis-of-COVID-19-Tweets-Visualization-Dashboard
 
-Google Drive Link = https://drive.google.com/drive/folders/1EVIAacytxtGGdnatwpVK2RLNoTbDi4QA
-
-The Project video,important files and all the files greater than 25 MB are included in the Google Drive folder.
-
-Website Link - https://sentiment-covid19-dash-app-humble-gnu-pf.mybluemix.net/
+This project deals with sentiment analysis about Covid 19 tweets by Indians. We mainly focus on the tweets about lockdown (lockdown 1.0 to 4.0)-how people preceive it and their reactions about it
